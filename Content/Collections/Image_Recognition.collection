@@ -3,4 +3,4 @@ Type:Dynamic
 Guid:2BFC6767-46F6-FBF8-F4D5-539F69304E1E
 ParentGuid:00000000-0000-0000-0000-000000000000
 
-
+(NOT (debug) (_Rec) OR(SESSION) ) AND (Path:'/Game'...)
